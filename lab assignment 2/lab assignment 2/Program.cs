@@ -8,7 +8,7 @@ namespace lab_assignment_2
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main ()
         {
             Console.WriteLine("Enter the radius of the circle :");
             double radius = Convert.ToDouble(Console.ReadLine());
